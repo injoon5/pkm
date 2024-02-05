@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Injoon Oh's PKM
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is Injoon Oh's Personal Knowledge Management system made to document thoughts, ideas, and life.
+
+For now, there is nothing but this page on the site. Check back later.
